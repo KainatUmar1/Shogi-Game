@@ -12,9 +12,9 @@ Welcome to the `Console Based Shogi Game` project! This is a C++ implementation 
 - Game State Saving: The game automatically saves the last played game state in a file named text1.txt, allowing you to resume your game from where you left off.
 
 # Files
-- `Shogi Game.cpp`: The main source code file containing the implementation of the Shogi game.
-- `text.txt`: A sample file showcasing the representation of a Shogi game state.
-- `text1.txt`: File where the last played game state is saved.
+- **Shogi Game.cpp**: The main source code file containing the implementation of the Shogi game.
+- **text.txt**: A sample file showcasing the representation of a Shogi game state.
+- **text1.txt**: File where the last played game state is saved.
 
 # Game State Representation
 - The text.txt file includes an example of the Shogi board state.
@@ -33,5 +33,4 @@ After compiling, you can start the game by running it.
 Upon starting the game, you'll be prompted to input moves for each player alternately. The board will be displayed in the terminal after each move, showing the updated game state. The game continues until one player achieves checkmate.
 
 # Author
-- [Kainat Umar]
-  + Developer of this Console Based Shogi Game project.
+- **Kainat Umar** - *Developer of this Console Based Shogi Game project.*
